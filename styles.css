@@ -27,6 +27,10 @@ a{
     font-size: 18px;
 }
 
+.dark-link{
+    color: black;
+}
+
 #home-link{
     margin-right: 100px;
     color: orangered;
